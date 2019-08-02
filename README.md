@@ -1,0 +1,1 @@
+## VuePress Template WITH auto Sidebar
